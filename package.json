@@ -1,0 +1,25 @@
+{
+  "name": "oddnumbercalculator",
+  "version": "1.0.0",
+  "description": "A app to sum the odd numbers of a given range.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/SumOddNumbersTest.js && node ./tests/SumEvenNumbersTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yigdo/oddnumbercalculator.git"
+  },
+  "keywords": [
+    "number",
+    "odd",
+    "even"
+  ],
+  "author": "Yigit Gulay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yigdo/oddnumbercalculator/issues"
+  },
+  "homepage": "https://github.com/yigdo/oddnumbercalculator#readme"
+}
